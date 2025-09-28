@@ -1,31 +1,34 @@
-# DNN - Redes Neuronales Profundas (UdeG)
 
-Este repositorio contiene materiales, notebooks y ejemplos para el curso "Redes Neuronales Profundas" de la Maestría en Matemáticas Aplicadas, Universidad de Guadalajara.
+# DNN - Deep Neural Networks (UdeG)
+
+Este repositorio contiene los notebooks y recursos para la materia de Redes Neuronales Profundas (Maestría en Ingeniería y Ciencia de Datos, UdeG).
 
 ## Estructura
-- `DNN_WEEK_1/Auto_Diff.ipynb`: Notebook principal de la primera semana (diferenciación automática).
-- `.github/copilot-instructions.md`: Guía para agentes de IA y convenciones del proyecto.
+- DNN_WEEK_1/: Notebooks y materiales de la semana 1
+- environment.yml: Dependencias recomendadas
+- .gitignore: Exclusión de archivos temporales y entornos
 
-## Objetivo
-Aprender, implementar y experimentar con redes neuronales profundas, diferenciación automática y algoritmos de optimización, siguiendo el temario oficial del curso.
+## Entrega
+- Suba el archivo `.ipynb` y el PDF generado por nbconvert.
+- No incluya archivos temporales, checkpoints ni entornos virtuales.
 
-## Uso
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/<usuario>/<repo>.git
-   ```
-2. Abre los notebooks en Jupyter o VS Code.
-3. Sigue las instrucciones y ejemplos para cada tema semanal.
+## Recomendaciones
+- Mantenga el código y los notebooks limpios y comentados.
+- Use Markdown para explicaciones teóricas.
+- Consulte el archivo `copilot-instructions.md` para convenciones de la materia.
 
 ## Requisitos
 - Python 3.8+
 - Jupyter Notebook o VS Code
-- Paquetes recomendados: numpy, matplotlib
+- Paquetes recomendados: numpy, matplotlib, torch
 
 ## Bibliografía
 - Goodfellow, Bengio, Courville: Deep Learning (MIT Press, 2016)
 - Bishop: Pattern Recognition and Machine Learning (Springer, 2006)
 - Haykin: Neural Networks and Learning Machines (Pearson, 2009)
 - Sutton & Barto: Reinforcement Learning (Bradford Book, 2018)
+
+---
+Para dudas, consulte la bibliografía recomendada o contacte al profesor.
 
 
