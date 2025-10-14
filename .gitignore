@@ -1,5 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env/
+venv/
+ENV/
+*.egg-info/
+*.gz
+
 # Ignore dataset and large files
 DNN_WEEK_3/data/
 *.pdf
 *.txt
+*.zip
+*.tar.gz
+*.rar
 
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Mac/Linux/Windows
+.DS_Store
+Thumbs.db
