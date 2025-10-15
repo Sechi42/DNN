@@ -12,6 +12,7 @@ ENV/
 
 # Ignore dataset and large files
 DNN_WEEK_3/data/
+DNN_WEEK_4/data/
 *.pdf
 *.txt
 *.zip
