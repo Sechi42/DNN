@@ -18,7 +18,8 @@ DNN_WEEK_4/data/
 *.zip
 *.tar.gz
 *.rar
-
+*.html
+*.png
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
